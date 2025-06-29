@@ -64,3 +64,14 @@ The option price is then calculated as the discounted average of these payoffs o
 ### Example Output
 
 - Monte Carlo Call Price ≈ $10.47 (close to Black-Scholes analytical price)
+
+### Visuals
+
+#### Monte Carlo Convergence to Black-Scholes
+
+![Monte Carlo Convergence](plots/convergence_plot.png)
+
+#### Simulated Stock Price Paths
+
+![Simulated Paths](plots/simulated_paths.png)
+
