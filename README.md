@@ -2,6 +2,13 @@
 
 This project implements the Black-Scholes formula in Python to compute the theoretical price of European call and put options.
 
+## Project Highlights
+
+- Implemented Black-Scholes and Monte Carlo simulations from scratch in Python
+- Visualized stock price simulations using Geometric Brownian Motion
+- Compared analytical and simulation-based pricing results
+- Documented theory and formulas for MFE/quant interviews
+
 ## Model Overview
 
 We use the Black-Scholes closed-form solution:
