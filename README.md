@@ -2,7 +2,7 @@
 
 This project implements the Black-Scholes formula in Python to compute the theoretical price of European call and put options.
 
-## 🧠 Model Overview
+## Model Overview
 
 We use the Black-Scholes closed-form solution:
 
@@ -17,7 +17,7 @@ Where:
 - σ = volatility
 - N = standard normal cumulative distribution
 
-## ⚙️ Inputs and Example
+## Inputs and Example
 
 
 S = 100      # stock price
